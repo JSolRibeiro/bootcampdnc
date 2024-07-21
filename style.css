@@ -137,6 +137,10 @@ padding-left: 7px;
     transform: scale(1.7);
 }
 
+.checkbox-itens input{
+    width: 15px;
+}
+
 input[type="submit"]{
     background-color: var(--default-blue);
     font-family: var(--default-font);
